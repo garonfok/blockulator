@@ -6,6 +6,11 @@ Blockulator is a web app where you can upload an image (<1 MB) and convert it in
 
 This is a full stack web application that was built with React, TypeScript, Java, and Spring Boot.
 
+## Dependencies
+
+Node: >= v19.6.1
+JRE: >= 20.0.1+9-29
+
 ## Running Locally
 
 1. Pull the repo from GitHub:
